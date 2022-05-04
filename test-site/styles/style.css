@@ -1,0 +1,52 @@
+p:hover {
+    color: purple;
+  }
+ a:hover {
+    color: rgb(37, 209, 195);
+  }
+h1:hover {
+    color: rgb(0, 225, 255);
+  }
+h2:hover {
+    color:mediumspringgreen
+}
+h3:hover {
+  text-align: center;
+  color:rgb(250, 150, 0) 
+}
+li:hover {
+  color:rgb(250, 0, 117)
+}
+html {
+  font-size: 15px; /* px means "pixels": the base font size is now 10 pixels high  */
+  font-family: "roboto", sans-serif; /* this should be the rest of the output you got from Google fonts */
+}
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+p, li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+html {
+  background-color: #b8dae7;
+}
+body {
+  width: 700px;
+  margin: 0 auto;
+  background-color: #dfd5fcd7;
+  padding: 0 50px 20px 50px;
+  border: 5px solid rgb(65, 2, 49);
+}
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #b3ff00;
+  text-shadow: 3px 3px 1px rgb(183, 0, 255);
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
